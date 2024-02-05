@@ -229,7 +229,7 @@ function App() {
 							{"<"}
 						</button>
 
-						<button className="text-white join-item  text-xl btn btn-outline">
+						<button className="text-white join-item w-32 text-xl btn btn-outline">
 							{day}
 						</button>
 						<button
@@ -288,7 +288,7 @@ function App() {
 						{"<"}
 					</button>
 
-					<button className="text-white join-item  text-xl btn btn-outline">
+					<button className=" w-32 text-white join-item  text-xl btn btn-outline">
 						{day}
 					</button>
 					<button
