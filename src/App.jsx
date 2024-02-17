@@ -24,31 +24,31 @@ function App() {
 			const sunday = [
 				{
 					nameOfClass: "E-Commerce & CMS",
-					timeOfClass: "09.00am - 09.40am",
+					timeOfClass: "08.45am - 09.30am",
 					subjectCode: "66674",
 					classRoom: "2105",
 				},
 				{
 					nameOfClass: "Apps Development Project",
-					timeOfClass: "09.40am - 11.00am",
+					timeOfClass: "09.30am - 11.00am",
 					subjectCode: "66673",
 					classRoom: "2202",
 				},
 				{
 					nameOfClass: "Network Administration & System",
-					timeOfClass: "11.00am - 11.40am",
+					timeOfClass: "11.00am - 11.45am",
 					subjectCode: "66672",
 					classRoom: "2206",
 				},
 				{
 					nameOfClass: "Innovation & Entrepreneurship",
-					timeOfClass: "11.40am - 12.20am",
+					timeOfClass: "11.45am - 12.30pm",
 					subjectCode: "65853",
 					classRoom: "2303",
 				},
 				{
 					nameOfClass: "System Analysis & Design",
-					timeOfClass: "12.20am - 1.00pm",
+					timeOfClass: "12.30pm - 01.15pm",
 					subjectCode: "66671",
 					classRoom: "2303",
 				},
@@ -59,31 +59,31 @@ function App() {
 			const Monday = [
 				{
 					nameOfClass: "System Analysis & Design",
-					timeOfClass: "08.20am - 09.00am",
+					timeOfClass: "08.00am - 08.45am",
 					subjectCode: "66671",
 					classRoom: "2107",
 				},
 				{
 					nameOfClass: "Innovation & Entrepreneurship",
-					timeOfClass: "09.00am - 09.40am",
+					timeOfClass: "08.45am - 09.30am",
 					subjectCode: "66653",
 					classRoom: "2107",
 				},
 				{
 					nameOfClass: "Network Administration & System",
-					timeOfClass: "09.40am - 11.00am",
+					timeOfClass: "09.30am - 11.00am",
 					subjectCode: "66672",
 					classRoom: "2202",
 				},
 				{
 					nameOfClass: "Cyber Security & Ethics",
-					timeOfClass: "11.00am - 11.40am",
+					timeOfClass: "11.00am - 11.45am",
 					subjectCode: "65875",
 					classRoom: "2202",
 				},
 				{
 					nameOfClass: "Embedded System Design",
-					timeOfClass: "11.40am - 12.20am",
+					timeOfClass: "11.45am - 12.30pm",
 					subjectCode: "66677",
 					classRoom: "2202",
 				},
@@ -94,19 +94,19 @@ function App() {
 			const tuesDay = [
 				{
 					nameOfClass: "Embedded System Design",
-					timeOfClass: "08.20am - 09.40am",
+					timeOfClass: "08.00am - 09.30am",
 					subjectCode: "66677",
 					classRoom: "2202",
 				},
 				{
 					nameOfClass: "E-Commerce & CMS",
-					timeOfClass: "09.40am - 11.00am",
+					timeOfClass: "09.30am - 11.00am",
 					subjectCode: "66674",
 					classRoom: "2204",
 				},
 				{
 					nameOfClass: "Cyber Security & Ethics",
-					timeOfClass: "11.00am - 12.20am",
+					timeOfClass: "11.00am - 12.30pm",
 					subjectCode: "66675",
 					classRoom: "2202",
 				},
@@ -117,19 +117,19 @@ function App() {
 			const wednesDay = [
 				{
 					nameOfClass: "Cyber Security & Ethics",
-					timeOfClass: "09.40am - 11.00am",
+					timeOfClass: "09.30am - 11.00am",
 					subjectCode: "66675",
 					classRoom: "2202",
 				},
 				{
 					nameOfClass: "Embedded System Design",
-					timeOfClass: "11.00am - 11.40am",
+					timeOfClass: "11.00am - 11.45am",
 					subjectCode: "66677",
 					classRoom: "2202",
 				},
 				{
 					nameOfClass: "E-Commerce & CMS",
-					timeOfClass: "11.40am - 1.00p m",
+					timeOfClass: "11.45am - 01.15pm",
 					subjectCode: "66674",
 					classRoom: "2204",
 				},
@@ -140,25 +140,25 @@ function App() {
 			const object = [
 				{
 					nameOfClass: "E-Commerce & CMS",
-					timeOfClass: "08.20am - 09.00am",
+					timeOfClass: "08.45am - 09.30am",
 					subjectCode: "66674",
 					classRoom: "2303",
 				},
 				{
 					nameOfClass: "Cyber Security & Ethics",
-					timeOfClass: "09.00am - 09.40am",
+					timeOfClass: "09.30am - 10.15am",
 					subjectCode: "66675",
 					classRoom: "2303",
 				},
 				{
 					nameOfClass: "Apps Development Project",
-					timeOfClass: "09.40am - 11.00am",
+					timeOfClass: "10.15am - 11.45am",
 					subjectCode: "66673",
 					classRoom: "2202",
 				},
 				{
 					nameOfClass: "System Analysis & Design",
-					timeOfClass: "11.00am - 12.20am",
+					timeOfClass: "11.45am - 01.15pm",
 					subjectCode: "66671",
 					classRoom: "2204",
 				},
@@ -211,8 +211,8 @@ function App() {
 
 	return (
 		<>
-			<div className="overflow-x-auto   text-white h-screen bg-gradient-to-br from-[#5004FD] to-[#A42DE9] ">
-				<div className="fixed  md:sticky md:bg-gradient-to-br md:from-[#5004FD] md:to-[#8920F0] md:top-0 py-6 top-4 left-1/2 -translate-x-1/2  md:translate-x-0 flex justify-around items-center z-[9999] ">
+			<div className="overflow-x-auto   text-white h-screen bg-gradient-to-br from-[#0d0d0d] to-[#181818] ">
+				<div className="fixed  md:sticky md:bg-gradient-to-br md:from-[#0d0d0d] md:to-[#181818] md:top-0 py-6 top-4 left-1/2 -translate-x-1/2  md:translate-x-0 flex justify-around items-center z-[9999] ">
 					<div className="text-xl text-center">
 						<h1>7CMTB1</h1>
 						<h1 className="text-gray-300 text-base">
